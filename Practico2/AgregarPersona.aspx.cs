@@ -31,7 +31,6 @@ namespace Practico2
             nombre.Text = "";
             apellido.Text = "";
             documento.Text = "";
-            //this.P2net.InsertCommand = "insert into Persona values (" + this.id.Text + "," + this.nombre.Text + "" + this.apellido.Text + "," + this.documento.Text + ")";
         }
     }
 }
